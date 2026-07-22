@@ -92,7 +92,8 @@ export default function Hero() {
                 Let's Talk <ChevronRight className="w-4 h-4" />
               </a>
               <a 
-                href="#" 
+                href="/resume.pdf"
+                download="Vikash_Vishwakarma_Resume.pdf"
                 className="inline-flex items-center gap-2 px-6 py-3 bg-white/5 hover:bg-white/10 text-white font-medium rounded-lg border border-white/10 transition-all hover:scale-105"
               >
                 Resume <Download className="w-4 h-4" />
