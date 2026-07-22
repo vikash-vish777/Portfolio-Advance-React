@@ -104,11 +104,11 @@ export default function Hero() {
                 <FaLinkedin className="w-6 h-6" />
                 <span className="sr-only">LinkedIn</span>
               </a>
-              <a href="#" className="text-gray-400 hover:text-cyan-400 transition-colors">
+              <a href="mailto:vikash13306@gmail.com" className="text-gray-400 hover:text-cyan-400 transition-colors">
                 <Mail className="w-6 h-6" />
                 <span className="sr-only">Email</span>
               </a>
-              <a href="#" className="text-gray-400 hover:text-cyan-400 transition-colors">
+              <a href="https://github.com/vikash-vish777" target="_blank" rel="noreferrer" className="text-gray-400 hover:text-cyan-400 transition-colors">
                 <FaGithub className="w-6 h-6" />
                 <span className="sr-only">GitHub</span>
               </a>
